@@ -6,11 +6,6 @@ PlogBost is a simple yet powerful blog website built with Node.js, Express, and 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Features
 - Create, read, update, and delete blog posts.
