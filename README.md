@@ -35,6 +35,6 @@ To get started with PlogBost, follow these steps:
 2. Install the required dependencies:
    ```bash
    npm install
-3. Start the application:
-  ```bash
+3. Start the app:
+   ```bash
    npm start
