@@ -32,4 +32,4 @@ To get started with PlogBost, follow these steps:
    npm install
 3. Start the app:
    ```bash
-   npm start
+   nodemon index.js
